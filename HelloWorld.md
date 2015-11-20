@@ -1,1 +1,1 @@
-## This is a markdown file.RS
+## This is a markdown file.
